@@ -3,7 +3,10 @@ RENCANA KONTENT WPA
 - JavaScript
   * ES6
   * Framework JavaScript
+    ^ Angular
+    ^ React
 - Struktur Data Dasar
 - PHP Framework
+  ^ Laravel
 - Interview
 - Vlogs
