@@ -4,6 +4,7 @@ RENCANA KONTENT WPA
   * ES6
   * Framework JavaScript
     ^ Vue
+    ^ React
 - Struktur Data Dasar
 - PHP Framework
   ^ Laravel
