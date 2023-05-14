@@ -1,6 +1,8 @@
 RENCANA KONTENT WPA 
 
 - JavaScript
+  * ES6
+  * Framework JavaScript
 - PHP Framework
 - Interview
 - Vlogs
